@@ -1,8 +1,8 @@
-#Poem Generator Using Fine Tuned GPT 2 Model.
+# Poem Generator Using Fine Tuned GPT 2 Model.
 
 A Streamlit app that generates random poems with customizable line counts and allows downloading the output as a text file.
 
-##Features
+## Features
 
 Interactive Interface: Users can generate poems through a simple web-based UI built with Streamlit.
 Customizable Poem Length: Adjust the number of lines (2–10) using a slider for tailored poem output.
